@@ -23,8 +23,8 @@
 
 ## Documents
 
-[Rédaction d’un cahier des charges techniques](https://docs.google.com/document/d/19SlPSv8n1vS7T-F088C2O5rBQ__sM5fp/edit)
-[Powerpoint](https://docs.google.com/presentation/d/1CoQ53IiTQDcbEge5PSUXg1-7OtTzL8ToXrMx-GfoYJc/edit#slide=id.p)
-[Note de cadrage](https://docs.google.com/document/d/1khWXlbSuFpijbEvAYFVgz6FObT0yYBpIJxjNxSDSU1I/edit#heading=h.hgqopsu7wovc)
-[Confluence](https://diginamic-cp.atlassian.net/wiki/spaces/BASKAGUILL/overview?homepageId=9306894)
-[Jira](https://diginamic-cp.atlassian.net/jira/software/c/projects/BGH/boards/171/backlog?view=detail&selectedIssue=BGH-5&versions=visible&epics=visible&issueLimit=100&selectedEpic=BGH-1)
+ - [Rédaction d’un cahier des charges techniques](https://docs.google.com/document/d/19SlPSv8n1vS7T-F088C2O5rBQ__sM5fp/edit)
+ - [Powerpoint](https://docs.google.com/presentation/d/1CoQ53IiTQDcbEge5PSUXg1-7OtTzL8ToXrMx-GfoYJc/edit#slide=id.p)
+ - [Note de cadrage](https://docs.google.com/document/d/1khWXlbSuFpijbEvAYFVgz6FObT0yYBpIJxjNxSDSU1I/edit#heading=h.hgqopsu7wovc)
+ - [Confluence](https://diginamic-cp.atlassian.net/wiki/spaces/BASKAGUILL/overview?homepageId=9306894)
+ - [Jira](https://diginamic-cp.atlassian.net/jira/software/c/projects/BGH/boards/171/backlog?view=detail&selectedIssue=BGH-5&versions=visible&epics=visible&issueLimit=100&selectedEpic=BGH-1)
