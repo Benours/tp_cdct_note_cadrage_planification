@@ -1,6 +1,6 @@
 # tp_cdct_note_cadrage_planification
 
-## Information
+## Informations
 
 TP-projet master data-engineer [Diginamic](https://www.diginamic.fr/)
 
@@ -19,7 +19,7 @@ TP-projet master data-engineer [Diginamic](https://www.diginamic.fr/)
 - Différentes vues en fonction des postes de votre équipe
 - Un diaporama de présentation de votre travail pour une intervention de 25 minutes
 
-## membres
+## Membres
 
 - Benjamin Baska
 - Antonin Guillon
